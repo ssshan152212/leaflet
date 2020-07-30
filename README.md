@@ -4,12 +4,14 @@ Host your webpage on either GitHub Pages, RPubs, or NeoCities.
 
 Your webpage must contain the date that you created the document, and it must contain a map created with Leaflet. We would love to see you show off your creativity!
 
-####Review criterialess 
+Review criterialess 
+===
 
 The rubric contains the following two questions:
 
 Does the web page feature a date and is this date less than two months before the date that you're grading this assignment?
 Does the web page feature an interactive map that appears to have been created with Leaflet?
-#####Example Submissionsless 
+Example Submissionsless 
+==
 
 Here's an extremely minimal passing example, but we hope your submission is much cooler!
